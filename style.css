@@ -1,3 +1,253 @@
-h1{
-    color: red;
+.title{
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 56px;
+    position: absolute;
+}
+.pic1{
+    top: 9px;
+    left: 405px;
+    width: 128px;
+    height: 38px;
+    position: absolute;
+}
+.pic2{
+    top: 20px;
+    left: 1065px;
+    width: 18px;
+    height: 16px;
+    position: absolute;
+}
+.pic3{
+    top: 20px;
+    left: 1192px;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+}
+.pic4{
+    top: 19px;
+    left: 1296px;
+    width: 20px;
+    height: 18px;
+    position: absolute;
+}
+.pic5{
+    top: 18px;
+    left: 1423px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}
+.wd1{
+    top: 16px;
+    left: 1086px;
+    width: 74px;
+    height: 24px;
+    position: absolute;
+    text-align: left;
+    font: normal normal normal 20px/30px SF Pro Text;
+    letter-spacing: 0px;
+    color: #8D8D8D;
+}
+.wd2{
+    top: 16px;
+    left: 1212px;
+    width: 51px;
+    height: 24px;
+    position: absolute;
+    text-align: left;
+    font: normal normal normal 20px/30px SF Pro Text;
+    letter-spacing: 0px;
+    color: #8D8D8D;
+}
+.wd3{
+    top: 16px;
+    left: 1318px;
+    width: 74px;
+    height: 24px;
+    position: absolute;
+    text-align: left;
+    font: normal normal normal 20px/30px SF Pro Text;
+    letter-spacing: 0px;
+    color: #8D8D8D;
+}
+.wd4{
+    top: 16px;
+    left: 1446px;
+    width: 69px;
+    height: 24px;
+    position: absolute;
+    text-align: left;
+    font: normal normal normal 20px/30px SF Pro Text;
+    letter-spacing: 0px;
+    color: #8D8D8D;
+}
+.title2{
+    top: 56px;
+    left: 0px;
+    width: 1920px;
+    height: 52px;
+    background: #916000 0% 0% no-repeat padding-box;
+    position: absolute;
+}
+.wd5{
+    top: 10px;
+    left: 405px;
+    width: 81px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 20px/30px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+}
+.wd6{
+    top: 10px;
+    left: 514px;
+    width: 97px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 20px/30px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+}
+.wd7{
+    top: 10px;
+    left: 639px;
+    width: 85px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 20px/30px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+}
+.wd8{
+    top: 10px;
+    left: 752px;
+    width: 39px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 20px/30px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+}
+.wd9{
+    top: 10px;
+    left: 819px;
+    width: 54px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 20px/30px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+}
+.wd10{
+    top: 10px;
+    left: 901px;
+    width: 53px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 20px/30px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+}
+.pic6{
+    top: 188px;
+    left: 405px;
+    width: 730px;
+    height: 460px;
+    position: absolute;
+}
+.pic7{
+    top: 678px;
+    left: 405px;
+    width: 350px;
+    height: 640px;
+    position: absolute;
+}
+.pic8{
+    top: 678px;
+    left: 785px;
+    width: 350px;
+    height: 640px;
+    position: absolute;
+}
+.pic9{
+    top: 1348px;
+    left: 405px;
+    width: 730px;
+    height: 460px;
+    position: absolute;
+}
+.wd11{
+    top: 188px;
+    left: 1165px;
+    width: 350px;
+    height: 48px;
+    text-align: left;
+    font: normal normal bold 32px/48px SF Pro Text;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+}
+.wd12{
+    top: 236px;
+    left: 1165px;
+    width: 350px;
+    height: 90px;
+    text-align: left;
+    font: normal normal 300 20px/30px PingFang TC;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+}
+.wd13{
+    top: 358px;
+    left: 1165px;
+    width: 95px;
+    height: 30px;
+    text-align: left;
+    font: normal normal 300 20px/30px SF Pro Text;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+}
+.sel1{
+    top: 400px;
+    left: 1165px;
+    width: 160px;
+    height: 50px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #916000;
+    border-radius: 4px 0px 0px 4px;
+    opacity: 1;
+    position: absolute;
+}
+.btn1{
+    top: 400px;
+    left: 1325px;
+    width: 190px;
+    height: 50px;
+    background: #916000 0% 0% no-repeat padding-box;
+    border: 2px solid #916000;
+    border-radius: 0px 4px 4px 0px;
+    opacity: 1;
+    position: absolute;
+    color: #FFFFFF;
 }
