@@ -254,6 +254,9 @@
     position: absolute;
     color: #FFFFFF;
 }
+.btn1:hover{
+    background: #5f4001;
+  }
 .wd14{
     top: 562px;
     left: 1165px;
