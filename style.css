@@ -378,3 +378,12 @@
     position: absolute;
     font-size: 20px;
 }
+@media screen and (max-width:800px){ 
+    .pic6{
+        top: 96px;
+        left: 15px;
+        width: 345px;
+        height: 220px;
+        position: absolute;
+    }
+}
